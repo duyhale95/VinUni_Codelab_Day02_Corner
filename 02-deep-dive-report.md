@@ -6,13 +6,13 @@ Quy định công khai của Vinhomes mô tả các kênh tiếp nhận và trá
 
 ### Phân công nhóm
 
-| Thành viên | Công việc phụ trách |
-|---|---|
-| **Hà Lê Duy — Trưởng nhóm** | Duyệt việc tạo repository, phân công và điều phối nhóm. Chốt đề tài, duyệt bản tổng hợp và phụ trách nộp bài. |
-| Nguyễn Hoàng Gia An | Rà soát Phase 1–2, đối chiếu các Quick Cards và bổ sung lý do chọn đề tài. |
-| Nguyễn Thiên Bảo | Rà quy trình đề xuất và bảng trách nhiệm theo tòa. Chuẩn bị tình huống phiếu có nhiều vấn đề. |
-| Nguyễn Văn Hiếu | Rà chỉ số Phase 5, cách ghi baseline và tiêu chí chấm phiếu thường, phiếu nhiều vấn đề và ca khẩn. |
-| Đoàn Công Hải | Rà sơ đồ hiện trạng, điểm chuyển giao, nhánh chuyển lại và tính nhất quán với báo cáo. |
+| MSSV | Thành viên | Công việc phụ trách |
+|---|---|---|
+| 2A202603851 | **Hà Lê Duy — Trưởng nhóm** | Duyệt việc tạo repository, phân công và điều phối nhóm. Chốt đề tài, duyệt bản tổng hợp và phụ trách nộp bài. |
+| 2A202603799 | Nguyễn Hoàng Gia An | Rà soát Phase 1–2, đối chiếu các Quick Cards và bổ sung lý do chọn đề tài. |
+| 2A202603861 | Nguyễn Thiên Bảo | Rà quy trình đề xuất và bảng trách nhiệm theo tòa. Chuẩn bị tình huống phiếu có nhiều vấn đề. |
+| 2A202603746 | Nguyễn Văn Hiếu | Rà chỉ số Phase 5, cách ghi baseline và tiêu chí chấm phiếu thường, phiếu nhiều vấn đề và ca khẩn. |
+| 2A202603739 | Đoàn Công Hải | Rà sơ đồ hiện trạng, điểm chuyển giao, nhánh chuyển lại và tính nhất quán với báo cáo. |
 
 ## Phase 3 — DEEP-DIVE
 
